@@ -1,0 +1,26 @@
+# 🌿 Forest Fun Tic-Tac-Toe 🍄
+
+A professional, 3D-styled Tic-Tac-Toe game featuring a lush forest theme, flower-based game pieces, and an unbeatable AI opponent.
+
+## 📝 Abstract
+Forest Fun Tic-Tac-Toe is a web-based strategy game designed to offer a visually immersive experience for both children and adults. Moving away from the traditional "pencil and paper" look, this project utilizes CSS3 3D transforms and glassmorphism to create a tactile, wooden UI. The core engine is powered by the **Minimax Algorithm**, ensuring a challenging experience where the AI never loses.
+
+## ✨ Key Features
+* **3D Forest UI:** High-fidelity cartoon forest theme with wooden textures.
+* **Magical Animations:** Golden Aura pulse effects for winning combinations.
+* **Unbeatable AI:** Implementation of the Minimax recursive algorithm.
+* **Responsive Design:** Optimized for both desktop and mobile browsers.
+
+## 🛠️ Built With
+* **HTML5:** Semantic structure.
+* **CSS3:** Custom animations, grid layout, and 3D depth effects.
+* **JavaScript (ES6):** Game logic and Minimax AI.
+
+## 🚀 How to Run
+1. Clone this repository: 
+   `git clone https://github.com/YOUR_USERNAME/forest-tic-tac-toe.git`
+2. Open `index.html` in any modern web browser.
+3. Or, visit the live link: [INSERT_YOUR_GITHUB_PAGES_URL_HERE]
+
+## 🤖 AI Logic (Minimax)
+The AI evaluates every possible move using a recursive tree search. It assigns scores to outcomes (+10 for AI win, -10 for Human win, 0 for tie) to ensure it always picks the optimal path.
